@@ -1,0 +1,60 @@
+body {
+    padding-top: 70px;
+}
+
+.gray {
+    color: gray;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue {
+    color: blue;
+}
+
+a {
+    color: black ;
+}
+
+.tp-action {
+    width: 150px;
+}
+.tp-name {
+    width: 70px;
+}
+
+.border-table, .border-table td, .border-table tr, .border-table th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.td-number {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.list-group-item {
+    padding: 5px 10px;
+}
+
+.table-condensed>tbody>tr>td, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>td, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>thead>tr>th {
+    padding: 2px;
+}
+
+caption {
+    color: black;
+}
