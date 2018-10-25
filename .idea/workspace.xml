@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5d2f451-8d1a-43ee-b6a3-091a354c82e0" name="Default" comment="" />
+    <list default="true" id="e5d2f451-8d1a-43ee-b6a3-091a354c82e0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +20,7 @@
       <file leaf-file-name="Billing.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/Billing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="6409">
               <caret line="377" column="60" selection-start-line="377" selection-start-column="51" selection-end-line="377" selection-end-column="60" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
@@ -29,21 +32,26 @@
       <file leaf-file-name="firm.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/billing/firm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1921">
+            <state relative-caret-position="2686">
               <caret line="158" column="99" selection-start-line="158" selection-start-column="99" selection-end-line="158" selection-end-column="99" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sf.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sf.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/billing/sf/sf.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1582">
-              <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
-              <folding>
-                <element signature="e#10125#10131#1#HTML" expanded="true" />
-                <element signature="e#10194#10200#1#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="283" column="35" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -60,7 +68,7 @@
       <file leaf-file-name="print.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/print.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="833">
               <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
             </state>
           </provider>
@@ -78,8 +86,8 @@
       <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="1462">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -146,6 +154,9 @@
       <replace>$c</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -183,6 +194,7 @@
         <option value="$PROJECT_DIR$/application/controllers/Billing.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/views/billing/sf/sf.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -196,50 +208,29 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1040" />
-    <option name="height" value="784" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="prom.kz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prom.kz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prom.kz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prom.kz" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prom.kz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prom.kz" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prom.kz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prom.kz" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="prom.kz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="prom.kz" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="kges-new.prom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kges-new.prom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,26 +274,29 @@
       <workItem from="1537936675988" duration="1982000" />
       <workItem from="1537956204897" duration="723000" />
       <workItem from="1540284654245" duration="3424000" />
+      <workItem from="1540379200365" duration="1340000" />
+      <workItem from="1540446448924" duration="59000" />
+      <workItem from="1540446513230" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128521000" />
+    <option name="totallyTimeSpent" value="129942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1762481" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.32626426" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4977307" visible="true" weight="0.32626426" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -326,13 +320,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/left.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/billing/firm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2669">
@@ -619,28 +606,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/print.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="833">
           <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/billing/firm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
+        <state relative-caret-position="2686">
           <caret line="158" column="99" selection-start-line="158" selection-start-column="99" selection-end-line="158" selection-end-column="99" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        <state relative-caret-position="1462">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Billing.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="6409">
           <caret line="377" column="60" selection-start-line="377" selection-start-column="51" selection-end-line="377" selection-end-column="60" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
@@ -650,12 +637,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/billing/sf/sf.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1582">
-          <caret line="283" column="35" lean-forward="true" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
-          <folding>
-            <element signature="e#10125#10131#1#HTML" expanded="true" />
-            <element signature="e#10194#10200#1#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="283" column="35" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
